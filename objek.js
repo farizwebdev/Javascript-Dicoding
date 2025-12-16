@@ -11,5 +11,8 @@ console.log(saya.nama);
 // Kalo mo ngehapus properti Hobi
 delete saya.hobi;
 
+// Kalo mo nambah properti pekerjaan
+saya.pekerjaan = "Mahasiswa";
+
 // Kalo mo nampilin objek setelah dihapus properti hobinya
 console.log(saya);
