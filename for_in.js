@@ -5,5 +5,6 @@ const istri_Fariz = {
 }
 
 for (const panggil in istri_Fariz){
-    console.log(`Tolong kamu siapaa?? ${istri_Fariz[panggil]}`);
+    console.log(`Tolong kamu siapaa?
+    ${panggil} : ${istri_Fariz[panggil]}`);
 };
