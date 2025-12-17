@@ -21,3 +21,10 @@ if (nilai_tbo >= 89){
 } else {
     console.log("Sayang kali kau dapet nilai C");
 };
+
+// Ternary Operator
+const anak_pionic = true;
+const duetku = 5000;
+const diskon_jajan = anak_pionic ? 0.1 : 0;
+
+console.log(`Cihuyy, lu dapet diskon jajan jadi cuman bayar ${diskon_jajan * duetku}`);
