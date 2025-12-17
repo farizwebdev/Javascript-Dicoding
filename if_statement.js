@@ -30,18 +30,3 @@ const diskon_jajan = anak_pionic ? 0.1 : 0;
 
 // Tampilin lahh
 // console.log(`Cihuyy, lu dapet diskon jajan jadi cuman bayar ${diskon_jajan * duetku}`);
-
-// Switch Case\
-const jamber = new Date().getHours();
-
-switch (jamber) {
-    case 6:
-        console.log("KULIAHHH INGETT LURR");
-        break;
-    case 12:
-        console.log("Yeayy, Waktunyaa ISHOMAA");
-        break;
-    default:
-        console.log("Sorri yee, aku mau ngedate duluu");
-        break;    
-}
