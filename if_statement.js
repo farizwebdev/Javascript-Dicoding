@@ -20,7 +20,9 @@ if (nilai_tbo >= 89){
     console.log("Waduh, Nilai B");
 } else if (nilai_tbo >= 69){
     console.log("Yahh, Nilai C");
-};
+} else {
+    console.log("Sayang kali kau dapet nilai D");
+}
 
 // Ternary Operator
 const anak_pionic = true;
