@@ -25,9 +25,9 @@ if (nilai_tbo >= 89){
 }
 
 // Ternary Operator
-const anak_pionic = true;
+const anak_pionic = false;
 const duetku = 5000;
-const diskon_jajan = anak_pionic ? 0.1 : 0;
+const diskon_jajan = anak_pionic ? 0.1 : 1;
 
 
 // Tampilin lahh
