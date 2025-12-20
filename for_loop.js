@@ -9,6 +9,6 @@ for (angka = 0; angka <= 20; angka += 2) {
 }
 
 // Tentang Menghitung Minus
-for (mines = 29; mines >= 1; mines--) {
+for (mines = 5; mines >= 1; mines--) {
     console.log(`Angka Minus: ${mines}`);
 }
