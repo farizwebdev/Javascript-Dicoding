@@ -1,5 +1,7 @@
 // Buat set inii
 const set = new Set([1, 2, 3]);
+
+// Nampilin set
 console.log(set);
 
 // Nambahin nilai ke set
