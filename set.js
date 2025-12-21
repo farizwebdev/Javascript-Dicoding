@@ -1,6 +1,7 @@
 const set = new Set([1, 2, 3]);
 console.log(set);
 
+// Nambahin nilai ke set
 set.add(10);
 console.log(set);
 
