@@ -1,3 +1,4 @@
+// Buat Fungsi addEmployee
 function addEmployee(name, email, JoinYear) {
     return {
         name: name, 
