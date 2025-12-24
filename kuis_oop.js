@@ -70,6 +70,6 @@ console.log(myEagle instanceof Eagle);
 console.log(myRabbit.eat());
 console.log(myEagle.fly());
 
-
+// Nampilin Hasil Objek
 console.log(myRabbit);
 console.log(myEagle);
