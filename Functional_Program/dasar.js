@@ -1,5 +1,9 @@
 const barangFariz = ['Laptop', 'Earphone', 'Dumbell'];
 
+const newBarangFariz = [];
+
 for (let i = 0; i < barangFariz.length; i++) {
-    console.log(`Barang ke-${i + 1}: ${barangFariz[i]}!!`);
+    barangFariz.push(`${barangFariz[i]}!!`);
 }
+
+console.log(newBarangFariz);
