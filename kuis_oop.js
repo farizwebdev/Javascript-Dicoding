@@ -66,8 +66,10 @@ const myEagle = new Eagle('Elo', 4);
 console.log(myRabbit instanceof Rabbit);
 console.log(myEagle instanceof Eagle);
 
-
+// Nampilin Hasil Method
 console.log(myRabbit.eat());
 console.log(myEagle.fly());
+
+
 console.log(myRabbit);
 console.log(myEagle);
