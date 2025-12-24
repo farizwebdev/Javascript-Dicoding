@@ -5,12 +5,12 @@ class Manusia {
     }
 }
 
-class Fariz extends Manusia {
+class Mahasiswa extends Manusia {
     constructor (nama, umur, hobi) {
         super(nama, umur);
         this.hobi = hobi;
     }
 }
 
-const fariz = new Fariz('Fariz', 20, 'Ngoding');
+const fariz = new Mahasiswa('Fariz', 20, 'Ngoding');
 console.log(fariz);
